@@ -1,5 +1,5 @@
 # Basic CLI-based Connector
-Base Script for basic wifi connection made with nmcli.
+Bash Script for basic wifi connection made with nmcli.
 
 ## Usage: 
 
